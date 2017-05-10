@@ -16,12 +16,12 @@ and received numerous awards for my performances.
 My true passion was discovered while taking an elective introductory web
 development course in college. Even though the requirements of a master's degree
 and teaching fellowship occupied a great deal of time, I could not stop
-tinkering with and perfecting the assignments for the web development course.
-I took another class and did more self study, and it wasn't long before I
-decided I wanted to pursue a career as a software developer.
+tinkering with and perfecting assignments for the web development course.
+After taking another class and doing a lot of self studying, it wasn't long
+before I knew I wanted to pursue a career as a software developer.
 
 After completing my master's degree, I was accepted to Turing School of Software
-and Development, a seven-month code school based in Denver, Colorado. At Turing,
+and Design, a seven-month code school based in Denver, Colorado. At Turing,
 I spent 60-80+ hours per week learning the fundamentals of object-oriented
 programming with Ruby, building web applications and providing/consuming APIs
 with Ruby on Rails, and gaining exposure to agile project management, Javascript
