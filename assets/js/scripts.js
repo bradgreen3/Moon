@@ -7,6 +7,16 @@ $(function() {
 // Need this to show animation when go back in browser
 window.onunload = function() {};
 
+// Safari back-button fix
+window.onpageshow = function(event) {
+    if ($(".container").hasClass('fadeOut')) {
+        $(".container").removeClass("fadeOut").addClass("fadeIn");
+    }
+    if ($(".wrapper").hasClass('fadeOut')) {
+        $(".wrapper").removeClass("fadeOut").addClass("fadeIn");
+    }
+}
+
 // Add lightbox class to all image links
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
@@ -50,7 +60,7 @@ $(document).ready(function() {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
