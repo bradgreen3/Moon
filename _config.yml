@@ -2,7 +2,7 @@
 title:              Brad Green
 bio:                'Software developer with a background in music and education'
 description:        "Software developer with a background in music and education"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/bio-photo.jpg'
 background:         'assets/img/placeholder-big.jpg'
