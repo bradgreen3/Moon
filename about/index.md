@@ -13,12 +13,11 @@ University of Oregon, where I was also a Graduate Teaching Fellow. I have
 performed at numerous conferences and masterclasses, won multiple competitions,
 and received numerous awards for my performances.
 
-My true passion was discovered while taking an elective introductory web
-development course in college. Even though the requirements of a master's degree
-and teaching fellowship occupied a great deal of time, I could not stop
-tinkering with and perfecting assignments for the web development course.
-After taking another class and doing a lot of self studying, it wasn't long
-before I knew I wanted to pursue a career as a software developer.
+I discovered my true passion while taking an introductory web development course
+in college. Despite the rigors of graduate coursework and a teaching fellowship,
+I could not stop tinkering with and perfecting assignments for the web development
+course. It wasn't long before I knew I wanted to pursue a career as a software
+developer.
 
 After completing my master's degree, I was accepted to Turing School of Software
 and Design, a seven-month code school based in Denver, Colorado. At Turing,
